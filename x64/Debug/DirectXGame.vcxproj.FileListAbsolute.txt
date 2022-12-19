@@ -1,0 +1,7 @@
+C:\k021g1231_2022\AL3\KamataEngine\DirectXGame\x64\Debug\DirectXGame.exe
+C:\k021g1231_2022\Templates\KamataEngine\DirectXGame\x64\Debug\DirectXGame.exe
+C:\k021g1231_2022_プロジェクト\AL3\KamataEngine\DirectXGame\x64\Debug\DirectXGame.exe
+C:\k021g1231_2022_プロジェクト\AL3\KamataEngine04011\KamataEngine\DirectXGame\x64\Debug\DirectXGame.exe
+C:\Users\ryoma\デスクトップ\日本工学院\2022年度\プロジェクト\AL3\KamataEngine04011\KamataEngine\DirectXGame\x64\Debug\DirectXGame.exe
+C:\Users\ryoma\デスクトップ\日本工学院\2022年度\A_前期授業_GE2B\プロジェクト\AL3\KamataEngine04011\KamataEngine\DirectXGame\x64\Debug\DirectXGame.exe
+C:\Users\ricar\Downloads\KamataEngine\DirectXGame\x64\Debug\DirectXGame.exe
